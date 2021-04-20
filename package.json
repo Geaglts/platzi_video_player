@@ -1,7 +1,7 @@
 {
     "name": "js_profesional",
     "version": "1.0.0",
-    "description": "",
+    "description": "Proyecto del Curso Profesional de JavaScript de la Escuela de JavaScript de Platzi.",
     "main": "index.js",
     "scripts": {
         "start": "live-server"
