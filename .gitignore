@@ -1,3 +1,5 @@
 node_modules
 apuntes.md
 *.mp4
+.cache
+dist
